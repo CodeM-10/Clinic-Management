@@ -33,6 +33,19 @@ A Clinic Management System based on three tier architecture made using Asp.Net C
 ## Interface
 Some screenshots of the pages.
 
+> Database manageCline
+
+<img src="img/manageCline.png" alt="Logo" width="800" height="480">
+
+> Home Page Interface
+<img src="img/Sc1.png" alt="Logo" width="800" height="480">
+
+> Add_Clinic Page Interface
+<img src="img/Sc2.png" alt="Logo" width="800" height="480">
+
+> All_Patients Page Interface
+<img src="img/Sc3.png" alt="Logo" width="800" height="480">
+
 
 <hr>
 
