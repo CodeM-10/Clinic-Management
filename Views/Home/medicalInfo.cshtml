@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">Medical Info <span>Mashail Ateyh</span>
+    </h1>
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-12">
+                <div class="text-end">
+                    <a asp-action="Patients" class="btn btn-secondary"> <i class="fa-solid fa-arrow-left"> Back </i></a>
+                    <br />
+                    <br />
+                </div>
+                <table id="datatable" class="table">
+                    <thead class="table-light">
+                        <th>#</th>
+                        <th>Name Patient</th>
+                        <th>Doctor Name</th>
+                        <th>Clinic Name</th>
+                        <th>Medicine</th>
+                        <th>Appointment</th>
+                        <th>Status</th>
+                        <th></th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Mashail Ateayh Althobaity</td>
+                            <td>Ahmad</td>
+                            <td>teth </td>
+                            <td>clean</td>
+                            <td>10/1/2023</td>
+                            <td >open</td>
+                            <td><a a class="btn btn-warning"><i class="fa-regular fa-folder-closed"></i></a> | <a class="btn btn-success"> <i class="fa-regular fa-pen"></i></a> | <a class="btn btn-danger"> <i class="fa-solid fa-xmark"></i></a></td>
+                        </tr>
+                    </tbody>
+
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

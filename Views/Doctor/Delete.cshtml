@@ -1,0 +1,39 @@
+﻿
+@model dashbord.Models.Clinic;
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h1>Delete Clinic</h1>
+
+        <h3>Are you sure you want to delete this ?</h3>
+
+        <div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" readonly />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Name Clinic</label>
+                <input asp-for="nameClinic" type="text" class="form-control" readonly />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Namber Room</label>
+                <input asp-for="namberRoom" type="text" class="form-control" readonly />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Nurse </label>
+                <input asp-for="nurse" type="text" class="form-control" readonly />
+            </div>
+
+            <br/>
+            <form asp-action="Delete" asp-route-id="@Model.Id " class="form-group" method="post">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                <a asp-action="Index" class="btn btn-outline-success">Cansel</a>
+            </form>
+
+        </div>
+    </div>
+</div>

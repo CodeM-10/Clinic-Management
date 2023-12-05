@@ -1,0 +1,45 @@
+﻿
+@model dashbord.Models.Clinic;
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h1>Add Clinic</h1>
+
+        <form asp-action="Creat">
+            @if (ViewBag.Massage != null)
+            {
+                <h5 class="alert alert-danger">@ViewBag.Message</h5>
+            }
+            <div asp-validation-summary="ModelOnly " class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="nameClinic" class="control-label">Name Clinic</label>
+                <input asp-for="nameClinic" type="text" class="form-control"  />
+                <span asp-validation-for="nameClinic" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="namberRoom" class="control-label">Namber Room</label>
+                <input asp-for="namberRoom" type="text" class="form-control"  />
+                <span asp-validation-for="namberRoom" class="text-danger"></span>
+
+            </div>
+            <div class=" form-group">
+                <label asp-for="nurse" class="control-label">Nurse </label>
+                <input asp-for="nurse" type="text" class="form-control"  />
+                <span asp-validation-for="nurse" class="text-danger"></span>
+
+            </div>
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-info" />
+                <a asp-action="Index" class="btn btn-outline-success">Back to List</a>
+            </div>
+
+            @*<input type="submit" value="Creat" calss="btn btn-success" />*@
+
+        </form>
+    </div>
+</div>

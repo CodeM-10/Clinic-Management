@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = dashbord
+build_property.RootNamespace = dashbord
+build_property.ProjectDir = /Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/Creat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9DcmVhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/DoneCreat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9Eb25lQ3JlYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/DoneDelet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9Eb25lRGVsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/DoneEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9Eb25lRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Clinics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpbmljcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/Creat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0NyZWF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/DoneCreatD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0RvbmVDcmVhdEQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/DoneDeletD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0RvbmVEZWxldEQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/DoneEditD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0RvbmVFZGl0RC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9jdG9yL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/Doctors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Eb2N0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/medicalInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9tZWRpY2FsSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/Medicines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NZWRpY2luZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/MyPatients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NeVBhdGllbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/Patients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QYXRpZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Home/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

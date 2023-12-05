@@ -1,0 +1,52 @@
+﻿
+@model dashbord.Models.Clinic;
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h1>Edit Clinic</h1>
+
+        <form asp-action="Edit">
+            @if (ViewBag.Massage != null)
+            {
+                <h5 class="alert alert-danger">@ViewBag.Message</h5>
+            }
+            <div asp-validation-summary="ModelOnly " class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" readonly />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Name Clinic</label>
+                <input asp-for="nameClinic" type="text" class="form-control"  />
+                <span asp-validation-for="nameClinic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Namber Room</label>
+                <input asp-for="namberRoom" type="text" class="form-control" />
+                <span asp-validation-for="namberRoom" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label class="control-label">Nurse </label>
+                <input asp-for="nurse" type="text" class="form-control" />
+                <span asp-validation-for="nurse" class="text-danger"></span>
+
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Ubdate" class="btn btn-info" />
+                <a asp-action="Index" class="btn btn-outline-success">Back to List</a>
+            </div>
+
+            @*<input type="submit" value="Ubdate" calss="btn btn-success" />*@
+
+        </form>
+    </div>
+</div>
+
+@*@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

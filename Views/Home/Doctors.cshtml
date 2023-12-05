@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="text-center">
+    <h1 class="display-4">All Doctors</h1>
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-12">
+                <div class="text-end">
+                    <a class="btn btn-info">Add Patient <i class="fa-solid fa-plus"></i></a>
+                    <br />
+                    <br />
+                </div>
+                <table id="datatable" class="table">
+                    <thead class="table-light">
+                    <th>#</th>
+                    <th>Id Number</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Specialization</th>
+                    <th>clinicId</th>
+                    <th>Appointment</th>
+                    <th>Phone</th>
+                    <th>Emall</th>
+                    <th>Available </th>
+                    <th> </th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>10912231</td>
+                            <td>Ahmad</td>
+                            <td>Mohamd</td>
+                            <td> Dentist</td>
+                            <td>Teeth Clinic 1</td>
+                            <td>1-9/2-10</td>
+                            <td>0501718942</td>
+                            <td>Ahmad@gmail.com</td>
+                            <td>vacation</td>
+                            <td><a asp-action="MyPatients" class="btn btn-secondary">Patients</a></td>
+
+                            <td><a class="btn btn-success"><i class="fa-regular fa-pen"></i></a> | <a class="btn btn-danger"><i class="fa-solid fa-xmark"></i></a></td>
+                        </tr>
+                    </tbody>
+
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

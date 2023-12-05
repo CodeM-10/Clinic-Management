@@ -1,0 +1,79 @@
+﻿
+
+@*@model IEnumerable<dashbord.Models.Doctor>*@
+
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4">All Doctors</h1>
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-12">
+                <div class="text-end">
+                    <a asp-controller="Doctor" asp-action="Creat" class="btn btn-info">Add Doctors <i class="fa-solid fa-plus"></i></a>
+                    <br />
+                    <br />
+
+                </div>
+                <table id="datatable" class="table">
+                    <thead class="table-light">
+                    <th>#</th>
+                    <th>Id Number</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Specialization</th>
+                    @*<th>Appointment</th>*@
+                    <th>Phone</th>
+                    <th>clinicId</th>
+                    @*<th>Emall</th>
+                        <th>Available </th>*@
+                    <th>  </th>
+                    </thead>
+                    <tbody>
+                      
+                        <tr>
+                            <td>1</td>
+                            <td>1092112</td>
+                            <td>Ahmad</td>
+                            <td>ALthobaity</td>
+                            <td>Dentists Near</td>
+                            <td>0501718942</td>
+                            <td>Dental Clinic</td>
+                            <td>
+                                <a asp-action="MyPatients" class="btn btn-secondary">Patients</a>
+                                <a asp-controller="Doctor" asp-action="Edit" class="btn btn-success">
+                                    <i class="fa-regular fa-pen"></i>
+                                </a> |
+                                <a asp-controller="Doctor" asp-action="Delete" class="btn btn-danger">
+                                    <i class="fa-solid fa-xmark"></i>
+                                </a>
+                            </td>
+
+                            @*<td>
+                                <a asp-action="MyPatients" class="btn btn-secondary">Patients</a>
+                                <a asp-controller="Doctor" asp-action="Edit" asp-route-id="@Doctor.doctorId" class="btn btn-success">
+                                    <i class="fa-regular fa-pen"></i>
+                                </a> |
+                                <a asp-controller="Doctor" asp-action="Delete" asp-route-id="@Doctor.doctorId" class="btn btn-danger">
+                                    <i class="fa-solid fa-xmark"></i>
+                                </a>
+                            </td>*@
+                        </tr>
+
+
+                        
+
+                    </tbody>
+
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

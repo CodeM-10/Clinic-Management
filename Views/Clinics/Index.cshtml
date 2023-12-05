@@ -1,0 +1,53 @@
+﻿@model IEnumerable<dashbord.Models.Clinic>
+
+
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4">All Clinics</h1>
+    <div class="container">
+        <div class="row ">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-12">
+                <div class="text-end">
+                    <a class="btn btn-info" asp-action="Creat">Add Clinic <i class="fa-solid fa-plus"></i></a>
+                    <br />
+                    <br />
+                </div>
+                <table id="datatable" class="table">
+                    <thead class="table-light">
+                        <th>#</th>
+                        <th>Name Clinic</th>
+                        <th>Num Room</th>
+                        @*<th>Name Doctor</th>*@
+                        <th>Nurse</th>
+                        <th> </th>
+                    </thead>
+                    <tbody>
+                        @foreach (var Clinic in Model)
+                        {
+                        <tr>
+                            <td>@Clinic.Id</td>
+                            <td>@Clinic.nameClinic</td>
+                            <td>@Clinic.namberRoom</td>
+                            <td>@Clinic.nurse</td>
+                            <td><a asp-action="Edit" asp-route-id="@Clinic.Id" class="btn btn-success">
+                                    <i class="fa-regular fa-pen"></i></a> |
+                                <a asp-action="Delete" asp-route-id="@Clinic.Id" class="btn btn-danger">
+                                    <i class="fa-solid fa-xmark"></i></a></td>
+
+                        </tr>
+
+                       
+                          }
+                     </tbody>
+
+
+                    </table>
+            </div>
+        </div>
+    </div>
+</div>

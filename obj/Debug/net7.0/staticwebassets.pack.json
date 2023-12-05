@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/.DS_Store",
+      "PackagePath": "staticwebassets/lib/.DS_Store"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/.DS_Store",
+      "PackagePath": "staticwebassets/lib/fontawesome/.DS_Store"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/all.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/all.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/all.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/all.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/brands.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/brands.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/brands.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/brands.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/fontawesome.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/regular.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/regular.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/regular.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/regular.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/solid.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/solid.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/solid.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/solid.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/svg-with-js.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/svg-with-js.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/svg-with-js.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/svg-with-js.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/v4-font-face.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/v4-font-face.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/v4-font-face.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/v4-font-face.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/v4-shims.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/v4-shims.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/v4-shims.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/v4-shims.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/v5-font-face.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/v5-font-face.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/css/v5-font-face.min.css",
+      "PackagePath": "staticwebassets/lib/fontawesome/css/v5-font-face.min.css"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/fontawesome/webfonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/lib/fontawesome/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mh2021/Desktop/go head /intern/testProject/dashbord/dashbord/wwwroot/x.ico",
+      "PackagePath": "staticwebassets/x.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.dashbord.props",
+      "PackagePath": "build\\dashbord.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.dashbord.props",
+      "PackagePath": "buildMultiTargeting\\dashbord.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.dashbord.props",
+      "PackagePath": "buildTransitive\\dashbord.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.dashbord.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
